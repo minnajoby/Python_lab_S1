@@ -1,0 +1,4 @@
+Sorted by keys(ascending) : {‘apple’:5, ‘banana’:3, ‘kiwi’:4}
+Sorted by keys(descending) : {‘kiwi’:4, ‘banana’:3, ‘apple’:5}
+Sorted by values(ascending) : {‘banana’:3, ‘kiwi’:4, ‘apple’:5}
+Sorted by values(descending) : {‘apple’:5, ‘kiwi’:4, ‘banana’:3}
