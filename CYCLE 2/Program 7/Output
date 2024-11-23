@@ -1,0 +1,3 @@
+Enter colors for list 1 seprated by comma:red,green
+Enter colors for list 2 seprated by comma:green,yellow
+colors in list 1 but not in list 2: {‘red’}
