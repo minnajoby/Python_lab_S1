@@ -1,0 +1,6 @@
+basic_pay=float(input("Enter your basic pay\n"))
+HRA=0.1*basic_pay
+TA=0.05*basic_pay
+Total_salary=basic_pay+HRA+TA
+print(f"Total salary of employee:{Total_salary}")
+
