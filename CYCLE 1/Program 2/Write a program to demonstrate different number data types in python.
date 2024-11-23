@@ -1,0 +1,9 @@
+int_num=2
+type(int_num)
+print(f"Integer:{int_num} Type:{type(int_num)}")
+float_num=2.44
+type(float_num)
+print(f"Float:{float_num} Type:{type(float_num)}")
+complex_num=2+4j
+type(complex_num)
+print(f"Complex:{complex_num} Type:{type(complex_num)}")
