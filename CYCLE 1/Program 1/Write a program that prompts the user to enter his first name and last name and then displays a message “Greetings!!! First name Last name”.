@@ -1,3 +1,3 @@
-Enter the first name:Minna
-Enter the last name:Joby
-Greetings!!!Minna Joby
+first_name=input("Enter the first name:")
+last_name=input("Enter the last name:")
+print(f"Greetings!!!{first_name} {last_name}")
