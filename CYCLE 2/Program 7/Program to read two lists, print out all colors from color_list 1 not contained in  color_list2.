@@ -1,0 +1,7 @@
+list1=input("Enter colors for list 1 seprated by comma:")
+list2=input("Enter colors for list2 seprated by comma:")
+set1=set(list1.split(','))
+set2=set(list2.split(','))
+difference=set1-set2
+
+print("Colors in list1 but not in list2:",difference)
