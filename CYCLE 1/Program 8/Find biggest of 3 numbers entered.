@@ -1,0 +1,10 @@
+num1=int(input("Enter first no:\n"))
+num2=int(input("Enter second no:\n"))
+num3=int(input("Enter third no:\n"))
+if num1>num2 & num1>num3:
+        print(f"{num1} is biggest no")
+elif num2>num3:
+        print(f"{num2} is biggest no")
+else:
+        print(f"{num3} is biggest no")
+
