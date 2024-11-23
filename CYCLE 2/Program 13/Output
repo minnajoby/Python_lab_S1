@@ -1,0 +1,2 @@
+Enter a line of text: the flower is a flower
+{'the': 1, 'flower': 2, 'is': 1, 'a': 1}
