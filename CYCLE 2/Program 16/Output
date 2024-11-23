@@ -1,0 +1,3 @@
+{‘banana’:3, ‘apple’:5}
+{‘orange’:2, ‘kiwi’:4}
+Merged : {‘banana’:3, ‘apple’:5 ‘orange’:2, ‘kiwi’:4}
