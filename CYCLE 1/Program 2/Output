@@ -1,0 +1,3 @@
+Integer:2 Type:<class ‘int’>
+Float:2.44 Type:<class ‘float’>
+Complex:(2+4j) Type:<class ‘complex’>
