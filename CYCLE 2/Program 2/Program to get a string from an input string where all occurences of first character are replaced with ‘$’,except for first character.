@@ -1,4 +1,4 @@
-s=input("Entre a string :")
+s=input("Enter a string :")
 first_char=s[0]
 newstr= first_char +s[1:].replace(first_char,‘$’)
 print(newstr)
